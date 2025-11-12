@@ -8,16 +8,9 @@
 
 
 
-
-
-# no idea what the coding is for, or what it does:
-
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
-
-
+``` javascript
 var myVar = "Hello, world!";
+```
 
 
 
@@ -25,10 +18,6 @@ var myVar = "Hello, world!";
 
 
 
-
-
-
-short meaningful commit message?
 
 
 
