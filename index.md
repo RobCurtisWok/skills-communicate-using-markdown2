@@ -17,7 +17,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 
-
+var myVar = "Hello, world!";
 
 
 
@@ -29,5 +29,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 short meaningful commit message?
+
 
 
