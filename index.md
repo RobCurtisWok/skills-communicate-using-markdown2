@@ -12,6 +12,9 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on github pages
+- [ ] find out what markdown is
+- [ ] do something else
 
 
 
